@@ -8,7 +8,7 @@ sidebar_position: 1
 ## Getting Started
 
 
-Follow this link to my github to download the project **[Github](https://github.com/Soma586)**.
+Follow this link to my github to download the project **[Github](https://github.com/Soma586/cryptoTracker)**.
 
 ### What you'll need
 
